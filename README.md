@@ -17,7 +17,7 @@ This theme was tested with WordPress 4.7.3.
 
 This theme is no longer maintained. Please feel free to fork it and modify it your own way.
 
-Please do not submit bug reports as they will probably be ignored.
+In this theme's .css files there are many properties which have their values marked as !important. Because of this the link styles of the WordPress Admin Bar and other WordPress default styles are overridden.
 
 ## Need additional help?
 
