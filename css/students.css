@@ -1,0 +1,25 @@
+a {
+    color: rgb(25, 73, 150) !important;
+}
+
+.topnav {
+    background-color: rgb(25, 73, 150) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(25, 73, 150) !important;
+}
+
+.section-heading-spacer {
+    border-top: 4px solid rgb(25, 73, 150) !important;
+}
+
+
+.content-section-a {
+    background-color: #CFD9E9 !important;
+}

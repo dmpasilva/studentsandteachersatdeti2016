@@ -1,0 +1,24 @@
+a {
+    color: rgb(162,51, 33) !important;
+}
+
+.topnav {
+    background-color: rgb(162,51, 33) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(162,51, 33) !important;
+}
+
+.section-heading-spacer {
+    border-top: 4px solid rgb(162,51, 33) !important;
+}
+
+.content-section-a {
+    background-color: #ECD5D1 !important;
+}
