@@ -1,26 +1,28 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# Students & Teachers @deti 2016 WordPress Theme
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Students & Teachers @deti 2016 is a [WordPress](http://wordpress.org/) template created for the 2016 edition of [Students & Teachers@deti](http://studentsandteachersdeti.web.ua.pt/) created by [David Silva](https://davidsilva.pt/).
 
-## Getting Started
+## Getting Started with this template
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+To use this template, you just have to:
+1. Clone this repository into your wp-content/themes folder
+2. Ensure you have at least these two pages in your current installation: studentsatdeti and teachersatdeti
+3. Apply the theme in your WordPress admin panel
+
+## Compatibility
+
+This theme was tested with WordPress 4.7.3.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+This theme is no longer maintained. Please feel free to fork it and modify it your own way.
 
-## Creator
+Please do not submit bug reports as they will probably be ignored.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+## Need additional help?
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+If you need any additional help regarding this theme feel free to contact me at:
+* https://twitter.com/dmpasilva
+* https://github.com/dmpasilva
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+Students & Teachers@deti is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
